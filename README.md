@@ -1,6 +1,6 @@
 <h1 align="center">hi.</h1>
 <h3 align="center">I am a professional sound conversationalist (first language: cello sound), turned to the business world of innovation (because I want to be an active creator and a change-maker, in concepts and projects which will last LONG after I die. </h3>
-<h3 align="center">Even the best music performances, the most prestigious ones – meant it was an extreme joy and pleasure on stage for me, for the audience… but only for the span of a concert. Now, I am into LONG-lasting innovations and positive change for humanity). </h3>
+<h3 align="center">Even the best music performances, the most prestigious ones – meant it was an extreme joy and pleasure on stage for me, for the audience… but only for the span of a concert. Now, I am into LONG-lasting innovations and positive change for humanity. </h3>
 
 - 🔭 I’m in a matchmaking phase with my favorite start-ups, while on the weekends I am learning to speak the business lng. on **MBA business Creativity & Innovation in LAB University**
 

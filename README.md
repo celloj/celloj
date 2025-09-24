@@ -10,13 +10,13 @@
 
 - 🤝 I’m looking for help with **intros. You facilitate me - I facilitate you**
 
-- 📝 I regularly write articles on [www.bingingart.com](www.bingingart.com)
+- 📝 I regularly write articles on [www.bingingart.com](https://www.bingingart.com)
 
 - 💬 Ask me about **audio: recording, editing, polishing, cello sound, what makes listeners feel what during live performance**
 
 - 📫 How to reach me **celloasia@gmail.com**
 
-- ❤️ Curious to know more? [www.joasiacieslak.com](www.joasiacieslak.com)
+- ❤️ Curious to know more? [www.joasiacieslak.com](https://www.joasiacieslak.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +27,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+Audio: Reaper, Ableton Live 11, Cubase 13. Notation: Dorico 5, MuseScore 4. Streaming: OBS. Visualisations: TouchDesigner
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 

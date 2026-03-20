@@ -1,7 +1,7 @@
 <h1 align="center">hi.</h1>
 <h4 align="center">Even the best music performances, the most prestigious ones – meant it was an extreme joy and pleasure on stage for me, for the audience… but only for the span of a concert. Now, I am into long-lasting projects.</h4>
 
-- 🌱 I’m always learning, currently books about: **project mng., business mng., e-commerce mng.**
+- 🌱 I’m always learning, currently reading books about: **project mng., business mng., e-commerce mng.**
 
 - 📫 How to reach me **celloasia@gmail.com**
 

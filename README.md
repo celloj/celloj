@@ -1,22 +1,11 @@
 <h1 align="center">hi.</h1>
-<h3 align="center">I am a professional sound conversationalist (first language: cello sound), turned to the business world of innovation (because I want to be an active creator and a change-maker, in concepts and projects which will last LONG after I die. </h3>
-<h3 align="center">Even the best music performances, the most prestigious ones – meant it was an extreme joy and pleasure on stage for me, for the audience… but only for the span of a concert. Now, I am into LONG-lasting innovations and positive change for humanity. </h3>
+<h4 align="center">Even the best music performances, the most prestigious ones – meant it was an extreme joy and pleasure on stage for me, for the audience… but only for the span of a concert. Now, I am into long-lasting projects.</h4>
 
-- 🔭 I’m in a matchmaking phase with my favorite start-ups, while on the weekends I am learning to speak the business lng. on **MBA business Creativity & Innovation in LAB University**
-
-- 🌱 I’m currently learning, as always A LOT, but to mention a few: **project mng., business mng., e-commerce mng.**
-
-- 👯 I’m looking to connect my research with **an exciting new workplace and mission**
-
-- 🤝 I’m looking for help with **intros. You facilitate me - I facilitate you**
-
-- 📝 I regularly write articles on [www.bingingart.com](https://www.bingingart.com)
-
-- 💬 Ask me about **audio: recording, editing, polishing, cello sound, what makes listeners feel what during live performance**
+- 🌱 I’m always learning, currently books about: **project mng., business mng., e-commerce mng.**
 
 - 📫 How to reach me **celloasia@gmail.com**
 
-- ❤️ Curious to know more? [www.joasiacieslak.com](https://www.joasiacieslak.com)
+- ❤️ [www.joasiacieslak.com](https://www.joasiacieslak.com)
 
 - 🔊 Audio: Reaper, Ableton Live 11, Cubase 13. 🎼 Notation: Dorico 5, MuseScore 4. 🎥🛑 Streaming: OBS. 🌌 Visualisations: TouchDesigner
 
